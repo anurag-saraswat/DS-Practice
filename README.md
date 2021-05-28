@@ -10,7 +10,8 @@ to. Return empty array if no. such triplet exists.
 
 4. Longest Band : Given an array containing N integers, find length of longest band. Band is defined as a subsequence which can be reordered in such a manner all element appear consecutive(i.e with absolute difference of 1 between meighbouring elements). A longest band is the band(subsequence) which contains maximum integers.
 
-5. Rains : Given n non-negative integers representing an elevation map where width of each bar is 1, compute how much water it can trap after raining.
+5. Rains : Given n non-negative integers representing an elevation map where width of each bar is 1, compute how much water it can trap after raining. 
+          ![](./images/rains.png)
 
 ## String Problems
 
