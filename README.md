@@ -14,11 +14,9 @@ to. Return empty array if no. such triplet exists.
           ![](./images/rains.png)
 6. Subarray Sort : Given an array of size atleast 2, find the smallest subarray that needs to be sorted in place so that entire input array becomes sorted.
 if the input array is already sorted, the function should return[-1,-1], otherwiise return the start and end index of smallest subarray.
- Sample Input: 
-    a1 = [1,2,3,4,5,8,6,7,9,10,11]
 
- sample Output: 
-    [5,7]
+7. Min Swaps : Given an array of size N, find the minimum number of swaps needed to make the array as sorted.
+
 
 ## String Problems
 

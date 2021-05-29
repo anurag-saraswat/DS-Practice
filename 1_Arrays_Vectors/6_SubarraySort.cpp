@@ -9,6 +9,10 @@ a1 = [1,2,3,4,5,8,6,7,9,10,11]
 sample Output
 [5,7]
 
+1. Fist approach is to sort array and then compare element to find fist and last misplaced element.
+    require O(n*logn + n)time and O(n) space complexity.
+2. Second approach find maximum and minimum misplaced element.
+3. Find index of misplaced element greater than minimum from left and vice versa from left.
 */
 
 #include "iostream"
