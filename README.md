@@ -12,10 +12,13 @@ to. Return empty array if no. such triplet exists.
 
 5. Rains : Given n non-negative integers representing an elevation map where width of each bar is 1, compute how much water it can trap after raining. 
           ![](./images/rains.png)
+       
 6. Subarray Sort : Given an array of size atleast 2, find the smallest subarray that needs to be sorted in place so that entire input array becomes sorted.
 if the input array is already sorted, the function should return[-1,-1], otherwiise return the start and end index of smallest subarray.
 
 7. Min Swaps : Given an array of size N, find the minimum number of swaps needed to make the array as sorted.
+
+8. Minimum Difference : Implement a function that takes in two non-empty arrays of integers, finds the pair of number(one from each array) who absolute difference is closest to zero, and returns a pair containing theses two numbers, with the first number from array.
 
 
 ## String Problems
