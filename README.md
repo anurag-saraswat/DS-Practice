@@ -21,6 +21,6 @@ if the input array is already sorted, the function should return[-1,-1], otherwi
 8. Minimum Difference : Implement a function that takes in two non-empty arrays of integers, finds the pair of number(one from each array) who absolute difference is closest to zero, and returns a pair containing theses two numbers, with the first number from array.
 
 
-## String Problems
+## Binary Search
 
-1. To be added 
+1. Frequency Count : Guive a sorted array which can contain repeated elements, and an element K, we need to find the frequency of a given element
